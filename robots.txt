@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /sign-in/
+Disallow: /sign-up/
+Disallow: /thank-you/
+Disallow: /404/
+
+Sitemap: https://crestlanegroup.com/sitemap.xml
+Host: crestlanegroup.com
