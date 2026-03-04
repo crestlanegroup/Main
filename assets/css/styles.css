@@ -777,6 +777,13 @@ progress {
   --bs-breakpoint-xxl: 1400px;
 }
 
+.price-area {
+  min-height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .row {
   --bs-gutter-x: 32px;
   --bs-gutter-y: 0;
