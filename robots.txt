@@ -3,7 +3,7 @@ Allow: /
 Disallow: /sign-in/
 Disallow: /sign-up/
 Disallow: /thank-you/
-Disallow: /404/
+Disallow: /404.html
 
 Sitemap: https://crestlanegroup.com/sitemap.xml
 Host: crestlanegroup.com
